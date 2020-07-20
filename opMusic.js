@@ -52,4 +52,4 @@ document.writeln("})</script>");
 document.writeln("<link rel=\'stylesheet\' href=\'https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css\'>");
 document.writeln("<script src=\'https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js\'></script>");
 document.writeln("<script src=\'https://cdn.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js\'></script>");
-document.writeln("<meting-js server=\'netease\' type=\'song\' id=\'1452663185\' fixed=\'true\' autoplay=\'true\' lrc-type=\'0\' volume=\'0.5\'></meting-js>");
+document.writeln("<meting-js server=\'netease\' type=\'song\' id=\'1452663185\' fixed=\'true\' autoplay=\'true\' lrc-type=\'0\' volume=\'0.35\'></meting-js>");
